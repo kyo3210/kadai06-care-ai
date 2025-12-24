@@ -1,6 +1,6 @@
 ## 1.LPのタイトル
 ケアAIアシスタント2
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 ## 2.制作LPの説明（40文字程度）
